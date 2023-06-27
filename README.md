@@ -2,6 +2,8 @@
 
 This project demonstrates smart bulb control with AtomS3 / AtomS3 Lite. 
 
+https://github.com/sokosun/atoms3_l530e_control/assets/130550408/f68154cb-8612-45db-9e7d-247bcf6fcbcd
+
 <div><video controls src="./l530e_control.mp4" muted="false"></video></div>
 
 ## Notes
